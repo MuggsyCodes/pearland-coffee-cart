@@ -29,8 +29,8 @@ export const metadata = {
     images: [
       {
         url: "/pearland-coffee-cart-hero.jpg",
-        width: 1000,
-        height: 548,
+        width: 520,
+        height: 285,
         alt: "Pearland Coffee Cart mobile coffee service setup",
       },
     ],
